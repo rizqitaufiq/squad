@@ -1,6 +1,6 @@
 /*
 Penduduk ppl = new Penduduk();
-nuat objek untuk menampung data dari setiap penduduk yang diperoleh dari setter dan getter
+buat objek untuk menampung data dari setiap penduduk yang diperoleh dari setter dan getter
 
 
 */
