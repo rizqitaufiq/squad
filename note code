@@ -2,5 +2,6 @@
 Penduduk ppl = new Penduduk();
 buat objek untuk menampung data dari setiap penduduk yang diperoleh dari setter dan getter
 
-a
+HashMap<String, ArrayList> Sukorame = new HashMap<String, ArrayList>();
+Digunakan untuk membuat HashMap yaitu data Desa yang bernama Sukorame.
 */
